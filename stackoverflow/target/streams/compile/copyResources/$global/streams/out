@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\resources\stackoverflow,F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow)[0m
+[0m[[0mdebug[0m] [0m	(F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\resources\stackoverflow\stackoverflow.csv,F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\stackoverflow.csv)[0m
+[0m[[0mdebug[0m] [0m	(F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\resources\stackoverflow\stackoverflow_payoff.csv,F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\stackoverflow_payoff.csv)[0m

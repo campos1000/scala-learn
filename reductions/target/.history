@@ -1,0 +1,20 @@
+runMain reductions.ParallelParenthesesBalancingRunner
+runMain reductions.ParallelCountChangeRunner
+runMain reductions.LineOfSightRunner
+test
+exit
+test
+ runMain reductions.LineOfSightRunner
+runMain reductions.ParallelCountChangeRunner
+submit tnxnat101@gmail.com yMZ8DVg36H8A1XHZ
+exit
+test
+submit tnxnat101@gmail.com yMZ8DVg36H8A1XHZ
+exit
+submit tnxnat101@gmail.com yMZ8DVg36H8A1XHZ
+exit
+submit tnxnat101@gmail.com yMZ8DVg36H8A1XHZ
+exit
+submit tnxnat101@gmail.com yMZ8DVg36H8A1XHZ
+submit tnxnat101@gmail.com 7Wy14PyaOvDk9m2y
+exit

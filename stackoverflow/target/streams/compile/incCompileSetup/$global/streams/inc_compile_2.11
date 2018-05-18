@@ -1,0 +1,510 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+41 items
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\package.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\package$.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\package.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\package.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\Posting$.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\Posting.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$10.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$11$$anonfun$apply$2.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$11.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$12.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$13.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$14$$anonfun$apply$3.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$14.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$15.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$16$$anonfun$1.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$16$$anonfun$17.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$16$$anonfun$18.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$16$$anonfun$19.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$16$$anonfun$20.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$16.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$2.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$3.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$4.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$5.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$6.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$7$$anonfun$apply$1.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$7.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$8.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$9.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$clusterResults$1.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$clusterResults$2.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$findClosest$1.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$kmeans$1.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$main$1.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$printResults$1.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$printResults$2.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$rawPostings$1.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$sampleVectors$1.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$sampleVectors$2.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1$$anonfun$apply$mcVI$sp$1.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$.class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow.class
+binary dependencies:
+5 items
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\package.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\package.scala -> C:\Users\Tuan\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> C:\Users\Tuan\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-core_2.11\2.1.0\spark-core_2.11-2.1.0.jar
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> C:\Users\Tuan\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\package.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+41 items
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\package.scala -> stackoverflow.package
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\package.scala -> stackoverflow.package$
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.Posting
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.Posting$
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$10
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$11
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$11$$anonfun$apply$2
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$12
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$13
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$14
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$14$$anonfun$apply$3
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$15
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$16
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$16$$anonfun$1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$16$$anonfun$17
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$16$$anonfun$18
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$16$$anonfun$19
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$16$$anonfun$20
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$2
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$3
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$4
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$5
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$6
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$7
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$7$$anonfun$apply$1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$8
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$9
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$clusterResults$1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$clusterResults$2
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$findClosest$1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$kmeans$1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$main$1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$printResults$1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$printResults$2
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$rawPostings$1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$sampleVectors$1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$sampleVectors$2
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow.StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1$$anonfun$apply$mcVI$sp$1
+used names:
+299 items
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\package.scala -> <init>
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\package.scala -> AnyRef
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\package.scala -> Int
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\package.scala -> Object
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\package.scala -> Posting
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\package.scala -> package
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\package.scala -> scala
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\package.scala -> stackoverflow
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> $conforms
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> %
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> &&
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> *
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> +
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> -
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> /
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> <
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> <:<
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> <byname>
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> <init>
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> <repeated>
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ==
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> >
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> >=
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> A
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> A1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> AbstractFunction6
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Answer
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Any
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> AnyRef
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Array
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ArrayOps
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> B
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> B1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Boolean
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> C
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> CanBuildFrom
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Class
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ClassTag
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Coll
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Double
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> FilterMonadic
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Function1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Function2
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> HashPartitioner
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> HighScore
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> IndexOutOfBoundsException
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Int
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Iterable
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Iterator
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> K
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> LangIndex
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> List
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Long
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Map
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> MatchError
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> None
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Nothing
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Object
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Option
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Ordering
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> PairRDDFunctions
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Posting
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Predef
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Product
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> QID
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Question
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> RDD
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Random
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Range
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> RichInt
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ScalaRunTime
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Serializable
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Some
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> SparkConf
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> SparkContext
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> StackOverflow
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Statics
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> String
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> StringContext
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> StringOps
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> T
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> T0
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> T1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> T2
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> T3
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> T4
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> T5
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> T6
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> That
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> TraversableOnce
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Tuple2
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Tuple4
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Tuple6
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> U
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> Unit
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> V
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> W
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> _$4
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> _$7
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> _1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> _2
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> _3
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> _4
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> _toString
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> a1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> a2
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> abs
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> acceptedAnswer
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> annotation
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> answerHighScore
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> answers
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> anyHash
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> apache
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> apply
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$2
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$3
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$4
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$5
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$6
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arg$macro$7
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> arr
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> as
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> asInstanceOf
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> assert
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> augmentString
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> averageVectors
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> bestIndex
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> canBuildFrom
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> centers
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> closest
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> closestGrouped
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> clusterResults
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> clusterSize
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> collect
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> collection
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> comp1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> comp2
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> conf
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> converged
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> count
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> debug
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> distance
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> elt
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> eq
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> euclideanDistance
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> f
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> filter
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> finalizeHash
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> findClosest
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> firstLangInTag
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> flatMap
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> foreach
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> format
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> get
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> getOrElse
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> groupBy
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> groupByKey
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> groupPost
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> grouped
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> groupedPostings
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> hasNext
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> head
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> highScore
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> i
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> id
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> idx
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> immutable
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> intArrayOps
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> intWrapper
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> intern
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> isEmpty
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> isInstanceOf
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> item
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> iter
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> iterator
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> j
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> join
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> kmeans
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> kmeansEta
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> kmeansKernels
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> kmeansMaxIterations
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> lang
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> langLabel
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> langPercent
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> langSpread
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> langs
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> length
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> line
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> lines
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> list
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ls
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> map
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> mapNewMeans
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> mapValues
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> materializeClassTag
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> math
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> maxBy
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> maxLanguageQuestion
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> means
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> median
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> medianScore
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> mix
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ne
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> newMeans
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> next
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> nextLong
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> oIndex
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> oldMeanIndex
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> orderVs
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> org
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> p
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> package
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> parentId
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> part1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> part2
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> perLang
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> percent
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> persist
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> posting
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> postingType
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> postings
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> printResults
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> println
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ps
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> question
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> questionAnswers
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> questions
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> raw
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> rawPostings
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> rdd
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> rddToPairRDDFunctions
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> refArrayOps
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> reflect
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> res
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> reservoirSampling
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> results
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> rnd
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> runtime
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> s
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> sampleVectors
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> sc
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> scala
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> score
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> scorePosts
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> scored
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> scoredPostings
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> setAppName
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> setMaster
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> size
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> sortBy
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> sortWith
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> spark
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> split
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stackoverflow
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> stripMargin
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> sum
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> tag
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> tags
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> tail
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> tailrec
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> takeSample
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> tempDist
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> textFile
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> tmp
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toArray
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toDouble
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toInt
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toIterator
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toList
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toLong
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toMap
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> toString
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> typedProductIterator
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> unary_!
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> unchecked
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> unpersist
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> until
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> update
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> util
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> v1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> v2
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> vector
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> vectorPosting
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> vectorPostings
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> vectors
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> vs
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> while$1
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> while$2
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> while$3
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> while$4
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> withFilter
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$12
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$13
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$14
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> x$15
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> zipWithIndex
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> ||
+product stamps:
+41 items
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\package$.class -> lastModified(1525370088119)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\package.class -> lastModified(1525370088111)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\Posting$.class -> lastModified(1525375137874)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\Posting.class -> lastModified(1525375137889)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$10.class -> lastModified(1525375137955)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$11$$anonfun$apply$2.class -> lastModified(1525375138004)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$11.class -> lastModified(1525375137991)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$12.class -> lastModified(1525375138018)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$13.class -> lastModified(1525375138029)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$14$$anonfun$apply$3.class -> lastModified(1525375138040)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$14.class -> lastModified(1525375138036)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$15.class -> lastModified(1525375138053)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$16$$anonfun$1.class -> lastModified(1525375138063)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$16$$anonfun$17.class -> lastModified(1525375138073)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$16$$anonfun$18.class -> lastModified(1525375138077)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$16$$anonfun$19.class -> lastModified(1525375138081)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$16$$anonfun$20.class -> lastModified(1525375138091)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$16.class -> lastModified(1525375138059)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$2.class -> lastModified(1525375138101)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$3.class -> lastModified(1525375138112)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$4.class -> lastModified(1525375138123)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$5.class -> lastModified(1525375138134)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$6.class -> lastModified(1525375138138)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$7$$anonfun$apply$1.class -> lastModified(1525375138160)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$7.class -> lastModified(1525375138150)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$8.class -> lastModified(1525375138174)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$9.class -> lastModified(1525375138179)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$clusterResults$1.class -> lastModified(1525375138190)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$clusterResults$2.class -> lastModified(1525375138201)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$findClosest$1.class -> lastModified(1525375138225)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$kmeans$1.class -> lastModified(1525375138246)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$main$1.class -> lastModified(1525375138260)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$printResults$1.class -> lastModified(1525375138288)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$printResults$2.class -> lastModified(1525375138293)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$rawPostings$1.class -> lastModified(1525375138326)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$sampleVectors$1.class -> lastModified(1525375138340)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$sampleVectors$2.class -> lastModified(1525375138345)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1525375138370)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$$anonfun$stackoverflow$StackOverflow$$reservoirSampling$1$1.class -> lastModified(1525375138356)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow$.class -> lastModified(1525375137949)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\target\scala-2.11\classes\stackoverflow\StackOverflow.class -> lastModified(1525375137942)
+source stamps:
+2 items
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\package.scala -> hash(a76486ea92f8ad69b083c54d9922d75e90fb1109)
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> hash(770cc44ded57be0ff851134271406991c49e7c78)
+binary stamps:
+3 items
+C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar -> lastModified(1471666156966)
+C:\Users\Tuan\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-core_2.11\2.1.0\spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+C:\Users\Tuan\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> lastModified(1509673049000)
+class names:
+3 items
+C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Tuan\.coursier\cache\v1\https\repo1.maven.org\maven2\org\apache\spark\spark-core_2.11\2.1.0\spark-core_2.11-2.1.0.jar -> org.apache.spark.rdd.RDD
+C:\Users\Tuan\.coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> scala.Product
+internal apis:
+2 items
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwq5ClRgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwj+xuC3QABm5vdGlmeXNxAH4ADHa2efd0AAdwYWNrYWdlc3EAfgAMsoNfdXQABHdhaXRzcQB+AAxSlmDcdAANJGFzSW5zdGFuY2VPZnNxAH4ADCM+WCx0AAZlcXVhbHNzcQB+AAx0+TfcdAAIUXVlc3Rpb25zcQB+AAxk4BRFdAAMYXNJbnN0YW5jZU9mc3EAfgAMvHXSGnQADHN5bmNocm9uaXplZHNxAH4ADG2DiD90AA0kaXNJbnN0YW5jZU9mc3EAfgAMbzXJLnQACUxhbmdJbmRleHNxAH4ADD9oonJ0AAlub3RpZnlBbGxzcQB+AAzKuStddAAMaXNJbnN0YW5jZU9mc3EAfgAM8b0Fv3QACUhpZ2hTY29yZXNxAH4ADEIO5mp0AANRSURzcQB+AAx2xWn3dAACPT1zcQB+AAxZUTwwdAAFY2xvbmVzcQB+AAwMHqV0dAAIdG9TdHJpbmdzcQB+AAwDxE+JdAACIT1zcQB+AAxHjCZzdAAIZ2V0Q2xhc3NzcQB+AAwxk+b6dAACbmVzcQB+AAxepwCsdAACZXFzcQB+AAy3WqF0dAACIyNzcQB+AAyY97a/dAAIZmluYWxpemVzcQB+AAzy50rldAAIaGFzaENvZGVzcQB+AAyCd56udAAGQW5zd2Vyc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAFXN0YWNrb3ZlcmZsb3cucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGZzcQB+AGF1cQB+AEQAAAAAc3EAfgBhdXEAfgBEAAAAAHNxAH4AYXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3NxAH4AcnQAA0FueXNxAH4AdnNxAH4AeXVxAH4AfAAAAAJzcQB+AH50AAVzY2FsYXEAfgCFdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAANc3RhY2tvdmVyZmxvd3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYyckO1t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABQRjpcQ291cnNlXFNjYWxhX0Z1bmNQcm9ncmFtbWluZ1xDb3Vyc2UgNFxzdGFja292ZXJmbG93XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSnZIbqkvitabCDxU2ZItdekPsRCQ==
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw+DYvsgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA/c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwfUUeG3QABm5vdGlmeXNxAH4ADCC9L2h0AAlrbWVhbnNFdGFzcQB+AAwm/kiudAALcmF3UG9zdGluZ3NzcQB+AAzhfmTSdAAEd2FpdHNxAH4ADEpgv6Z0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADKAbXx50AA0kYXNJbnN0YW5jZU9mc3EAfgAMrF9GvHQADmNvcHkkZGVmYXVsdCQ1c3EAfgAM+E5g/nQADHByb2R1Y3RBcml0eXNxAH4ADFc6vOl0AAZlcXVhbHNzcQB+AAxsl/sydAAEdGFnc3NxAH4ADMm46bR0AAxhc0luc3RhbmNlT2ZzcQB+AAzC20w7dAAMc3luY2hyb25pemVkc3EAfgAMswm7AnQABXNjb3Jlc3EAfgAMcm5WO3QAAnNjc3EAfgAMG/Bc8HQAE2ttZWFuc01heEl0ZXJhdGlvbnNzcQB+AAxi8TX7dAANJGlzSW5zdGFuY2VPZnNxAH4ADGnBqtt0AA1TdGFja092ZXJmbG93c3EAfgAMzlyeHXQADHByaW50UmVzdWx0c3NxAH4ADMifa310AAVsYW5nc3NxAH4ADKV0QMV0AAhjYW5FcXVhbHNxAH4ADB7uHC50AA5jb3B5JGRlZmF1bHQkNHNxAH4ADMSE3bJ0AAtwb3N0aW5nVHlwZXNxAH4ADEnpIwZ0AA52ZWN0b3JQb3N0aW5nc3NxAH4ADHucS/Z0AARtYWluc3EAfgAMbsPDDnQACmxhbmdTcHJlYWRzcQB+AAykuCmndAAQa21lYW5zJGRlZmF1bHQkNHNxAH4ADHZhjSZ0AA1wcm9kdWN0UHJlZml4c3EAfgAMeWKO4HQACW5vdGlmeUFsbHNxAH4ADFl580R0AARjb25mc3EAfgAMEniSd3QACWNvbnZlcmdlZHNxAH4ADA5KQgJ0AAxpc0luc3RhbmNlT2ZzcQB+AAy9PvrRdAAGPGluaXQ+c3EAfgAMkng77nQAAmlkc3EAfgAMoiZd83QAEGttZWFucyRkZWZhdWx0JDNzcQB+AAwG4E9ydAAHUG9zdGluZ3NxAH4ADBbtZCZ0AA5zY29yZWRQb3N0aW5nc3NxAH4ADOYFunt0AAI9PXNxAH4ADARsow90AAVjbG9uZXNxAH4ADKoKMtR0AA5hY2NlcHRlZEFuc3dlcnNxAH4ADHhDZ+x0AA1rbWVhbnNLZXJuZWxzc3EAfgAM6TWlCnQABiRpbml0JHNxAH4ADGjX6Mx0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADGaSQS50AARjb3B5c3EAfgAMt6kA63QACHRvU3RyaW5nc3EAfgAMRP6vvHQAD2dyb3VwZWRQb3N0aW5nc3NxAH4ADLM2Tip0AAIhPXNxAH4ADDjQNpZ0AA1zYW1wbGVWZWN0b3Jzc3EAfgAMpgeZw3QADmNsdXN0ZXJSZXN1bHRzc3EAfgAMXVMdTXQACGdldENsYXNzc3EAfgAM7Evs4XQADmNvcHkkZGVmYXVsdCQxc3EAfgAM0PcuKXQAEWV1Y2xpZGVhbkRpc3RhbmNlc3EAfgAMBZfqdnQADmNvcHkkZGVmYXVsdCQ2c3EAfgAMf5fJdHQAAm5lc3EAfgAMAxTzAXQACHBhcmVudElkc3EAfgAMWcxCLXQADmF2ZXJhZ2VWZWN0b3Jzc3EAfgAMnk3rW3QAAmVxc3EAfgAMeF4/pHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADKetkdZ0AAIjI3NxAH4ADBMs07d0AAhmaW5hbGl6ZXNxAH4ADAspfBZ0AAtmaW5kQ2xvc2VzdHNxAH4ADJLPpOB0AAZrbWVhbnNzcQB+AAy0HBKTdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAw4o2uDdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAVc3RhY2tvdmVyZmxvdy5Qb3N0aW5ndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AK1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AlUwACWluaGVyaXRlZHEAfgCVTAAHcGFyZW50c3EAfgCVeHEAfgCyc3EAfgCtdXEAfgCQAAAAAHNxAH4ArXVxAH4AkAAAAABzcQB+AK11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALF0AAdQcm9kdWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCxc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDLc3EAfgC+dAAGRXF1YWxzcQB+AMRzcQB+AL50AAxTZXJpYWxpemFibGVxAH4AxHNxAH4AvnEAfgDTc3EAfgDCc3EAfgDFdXEAfgDIAAAAA3NxAH4AynQABGphdmFzcQB+AMp0AAJpb3EAfgDPc3EAfgC+dAAGT2JqZWN0c3EAfgDCc3EAfgDFdXEAfgDIAAAAA3NxAH4AynEAfgDZc3EAfgDKdAAEbGFuZ3EAfgDPc3EAfgC+dAADQW55cQB+AMRzcQB+AJJxAH4An3VxAH4AoAAAAABzcQB+AKIAdAAbc3RhY2tvdmVyZmxvdy5TdGFja092ZXJmbG93dXEAfgClAAAAAH5xAH4Ap3QABk1vZHVsZXVxAH4AqwAAAAF0ABhzY2FsYS5hbm5vdGF0aW9uLnRhaWxyZWNzcQB+AK1xAH4As3NxAH4ArXNxAH4AtXNxAH4ArXVxAH4AkAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AlnEAfgCfdXEAfgCgAAAAAHNxAH4AogBxAH4APXVxAH4ApQAAAABzcQB+AL50AARVbml0c3EAfgDCc3EAfgDFdXEAfgDIAAAAAnNxAH4AynEAfgDNcQB+AM91cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgD1eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgCodAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgC/WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCxc3EAfgC+dAAFQXJyYXlxAH4A/XVxAH4AvAAAAAFzcQB+AL50AAZTdHJpbmdzcQB+AMJzcQB+AMV1cQB+AMgAAAADc3EAfgDKcQB+ANlzcQB+AMpxAH4A43EAfgDPc3EAfgCtdXEAfgCQAAAAAHNxAH4ArXVxAH4AvAAAAAVzcQB+AL50AA1TdGFja092ZXJmbG93c3EAfgDCc3EAfgDFdXEAfgDIAAAAAnNxAH4AynQADXN0YWNrb3ZlcmZsb3dxAH4Az3NxAH4AvnEAfgDTcQB+AP1zcQB+AL5xAH4A03NxAH4AwnNxAH4AxXVxAH4AyAAAAANzcQB+AMpxAH4A2XNxAH4AynQAAmlvcQB+AM9zcQB+AL5xAH4A3XEAfgEXc3EAfgC+cQB+AOVxAH4A/XNxAH4AknEAfgCfdXEAfgCgAAAAAHNxAH4AogB0ABtzdGFja292ZXJmbG93LlN0YWNrT3ZlcmZsb3d1cQB+AKUAAAAAcQB+AKl1cQB+AKsAAAABdAAYc2NhbGEuYW5ub3RhdGlvbi50YWlscmVjc3EAfgCtcQB+ALNzcQB+AK1zcQB+ALVzcQB+AK11cQB+AJAAAAAAc3EAfgCtdXEAfgCQAAAAAHNxAH4ArXVxAH4AvAAAAARzcQB+AL5xAH4A03NxAH4AwnNxAH4AxXVxAH4AyAAAAAJzcQB+AMpxAH4AzXEAfgDPc3EAfgC+cQB+ANNzcQB+AMJzcQB+AMV1cQB+AMgAAAADc3EAfgDKcQB+ANlzcQB+AMp0AAJpb3EAfgDPc3EAfgC+cQB+AN1zcQB+AMJzcQB+AMV1cQB+AMgAAAADc3EAfgDKcQB+ANlzcQB+AMpxAH4A43EAfgDPc3EAfgC+cQB+AOVxAH4BQnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQADXN0YWNrb3ZlcmZsb3dzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWMncW6+dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUEY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDRcc3RhY2tvdmVyZmxvd1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUdwzETe1Xvg/4URNCcUBpkcSefHg=
+external apis:
+0 items
+source infos:
+2 items
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\package.scala -> 
+AAAAAAAAAAA=
+F:\Course\Scala_FuncProgramming\Course 4\stackoverflow\src\main\scala\stackoverflow\StackOverflow.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYviOcoB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUEY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDRcc3RhY2tvdmVyZmxvd1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYwMqUul1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUEY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDRcc3RhY2tvdmVyZmxvd1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYyckO1t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUEY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDRcc3RhY2tvdmVyZmxvd1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYydxbr51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUEY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDRcc3RhY2tvdmVyZmxvd1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==

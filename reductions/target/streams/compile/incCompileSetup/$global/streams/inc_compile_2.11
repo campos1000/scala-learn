@@ -1,0 +1,550 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+40 items
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\common\package$.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\common\package$DefaultTaskScheduler$$anon$1.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\common\package$DefaultTaskScheduler.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\common\package$TaskScheduler.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\common\package.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$$anonfun$4.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$$anonfun$5.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$$anonfun$downsweep$1.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$$anonfun$downsweep$2.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$Leaf$.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$Leaf.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$Node$.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$Node.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$Tree.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner$$anonfun$1.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner$$anonfun$2.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner$$anonfun$3.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner$.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$3.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$4.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$combinedThreshold$1.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$moneyThreshold$1.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$totalCoinsThreshold$1.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChange.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChangeRunner$$anonfun$1.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChangeRunner$$anonfun$2.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChangeRunner$.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChangeRunner.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancing$$anonfun$3.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancing$$anonfun$4.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancing$.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancing.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancingRunner$$anonfun$1.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancingRunner$$anonfun$2.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancingRunner$.class
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancingRunner.class
+binary dependencies:
+11 items
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> C:\Users\Tuan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Tuan\.ivy2\cache\com.storm-enroute\scalameter-core_2.11\jars\scalameter-core_2.11-0.6.jar
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> C:\Users\Tuan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> C:\Users\Tuan\.ivy2\cache\com.storm-enroute\scalameter-core_2.11\jars\scalameter-core_2.11-0.6.jar
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> C:\Users\Tuan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> C:\Users\Tuan\.ivy2\cache\com.storm-enroute\scalameter-core_2.11\jars\scalameter-core_2.11-0.6.jar
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> C:\Users\Tuan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+40 items
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> common.package
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> common.package$
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> common.package$DefaultTaskScheduler
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> common.package$DefaultTaskScheduler$$anon$1
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> common.package$TaskScheduler
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$$anonfun$4
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$$anonfun$5
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$$anonfun$downsweep$1
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$$anonfun$downsweep$2
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$Leaf
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$Leaf$
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$Node
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$Node$
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSight$Tree
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSightRunner
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSightRunner$
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSightRunner$$anonfun$1
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSightRunner$$anonfun$2
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions.LineOfSightRunner$$anonfun$3
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChange
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChange$
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$3
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$4
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$combinedThreshold$1
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$moneyThreshold$1
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChange$$anonfun$totalCoinsThreshold$1
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChangeRunner
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChangeRunner$
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChangeRunner$$anonfun$1
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions.ParallelCountChangeRunner$$anonfun$2
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$3
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancing$$anonfun$4
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner$
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner$$anonfun$1
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reductions.ParallelParenthesesBalancingRunner$$anonfun$2
+used names:
+313 items
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> $anon
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> <byname>
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> <init>
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> A
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> AnyRef
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> B
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> C
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> D
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> DefaultTaskScheduler
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> DynamicVariable
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> ForkJoinPool
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> ForkJoinTask
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> RecursiveTask
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> T
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> TaskScheduler
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> Thread
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> Tuple2
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> Tuple4
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> _root_
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> body
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> common
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> concurrent
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> currentThread
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> execute
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> fork
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> forkJoinPool
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> isInstanceOf
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> java
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> join
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> lang
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> left
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> package
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> parallel
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> right
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> scala
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> schedule
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> scheduler
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> t
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> ta
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> task
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> taskA
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> taskB
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> taskC
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> taskD
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> tb
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> tc
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> td
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> util
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> value
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> %
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> &&
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> *
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> +
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> -
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> ->
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> /
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> <
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> <=
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> <init>
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> ==
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> >
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> >=
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> AbstractFunction2
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> AbstractFunction3
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> AnyRef
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> Array
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> ClassTag
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> Default
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> Float
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> IndexedSeq
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> Int
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> Key
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> Leaf
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> LineOfSight
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> LineOfSightRunner
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> Node
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> None
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> Predef
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> Product
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> ScalaRunTime
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> Serializable
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> Statics
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> String
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> StringContext
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> Tree
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> Unit
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> Warmer
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> _1
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> _2
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> _hashCode
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> _toString
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> a
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> apply
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> asInstanceOf
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> b
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> benchRuns
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> canBuildFrom
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> common
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> config
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> current
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> downsweep
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> downsweepSequential
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> end
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> eq
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> exec
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> finalizeHash
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> floatArrayOps
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> floatHash
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> from
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> immutable
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> input
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> intWrapper
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> isInstanceOf
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> left
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> length
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> lineOfSight
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> lineOfSightInner
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> map
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> materializeClassTag
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> max
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> maxPrevious
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> maxWarmupRuns
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> measure
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> minWarmupRuns
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> mix
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> ne
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> node1
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> node2
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> org
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> output
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> package
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> parLineOfSight
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> parallel
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> partime
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> println
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> reductions
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> right
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> runtime
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> s
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> scala
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> scalameter
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> seqtime
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> size
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> standardConfig
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> startingAngle
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> tangle
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> threshold
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> toArray
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> toString
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> tree
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> typedProductIterator
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> unchecked
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> until
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> update
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> upsweep
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> upsweepSequential
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> upsweepSequentialInner
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> verbose
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> withWarmer
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> ||
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> *
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> +
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> -
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> ->
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> /
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> <
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> <=
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> <init>
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> ==
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> >=
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> AnyRef
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Array
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Boolean
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Default
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Function2
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Int
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Key
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> List
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> ParallelCountChange
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> ParallelCountChangeRunner
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Predef
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> String
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> StringContext
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Threshold
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Unit
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> Warmer
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> _1
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> _2
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> _root_
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> allCoins
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> amount
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> apply
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> benchRuns
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> coins
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> combinedThreshold
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> common
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> config
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> countChange
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> exec
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> fjtime
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> head
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> immutable
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> isEmpty
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> length
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> maxWarmupRuns
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> measure
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> measureParallelCountChange
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> minWarmupRuns
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> money
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> moneyThreshold
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> ne
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> org
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> package
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> parCountChange
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> parResult
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> parResult_=
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> parallel
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> println
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> reductions
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> res1
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> res2
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> s
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> scala
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> scalameter
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> seqResult
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> seqResult_=
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> seqtime
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> size
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> standardConfig
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> startingMoney
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> tail
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> threshold
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> totalCoins
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> totalCoinsThreshold
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> unchecked
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> verbose
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> withWarmer
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> ||
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> +
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> -
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> ->
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> /
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> <init>
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> ==
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> >
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> >=
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> AnyRef
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Array
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Boolean
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Char
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Default
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Int
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Integer
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Integer2int
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Key
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> ParallelParenthesesBalancing
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> ParallelParenthesesBalancingRunner
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Predef
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> String
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> StringContext
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Tuple2
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Unit
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> Warmer
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> _1
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> _2
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> acc
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> annotation
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> apply
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> arg1
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> arg2
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> balance
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> balanceInner
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> benchRuns
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> chars
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> common
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> config
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> exec
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> fjtime
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> from
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> idx
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> index
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> int2Integer
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> java
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> lang
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> length
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> maxWarmupRuns
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> measure
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> minWarmupRuns
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> ne
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> org
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> package
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> parBalance
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> parResult
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> parResult_=
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> parallel
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> println
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reduce
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> reductions
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> res1
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> res2
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> s
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> scala
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> scalameter
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> seqResult
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> seqResult_=
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> seqtime
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> standardConfig
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> threshold
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> traverse
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> unchecked
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> until
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> verbose
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> withWarmer
+product stamps:
+40 items
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\common\package$.class -> lastModified(1504882196823)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\common\package$DefaultTaskScheduler$$anon$1.class -> lastModified(1504882196844)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\common\package$DefaultTaskScheduler.class -> lastModified(1504882196835)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\common\package$TaskScheduler.class -> lastModified(1504882196851)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\common\package.class -> lastModified(1504882196769)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$$anonfun$4.class -> lastModified(1505259311476)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$$anonfun$5.class -> lastModified(1505259311482)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$$anonfun$downsweep$1.class -> lastModified(1505259311487)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$$anonfun$downsweep$2.class -> lastModified(1505259311492)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$.class -> lastModified(1505259311466)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$Leaf$.class -> lastModified(1505259311502)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$Leaf.class -> lastModified(1505259311511)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$Node$.class -> lastModified(1505259311515)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$Node.class -> lastModified(1505259311522)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight$Tree.class -> lastModified(1505259311525)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSight.class -> lastModified(1505259311410)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner$$anonfun$1.class -> lastModified(1505259311539)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner$$anonfun$2.class -> lastModified(1505259311542)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner$$anonfun$3.class -> lastModified(1505259311546)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner$.class -> lastModified(1505259311535)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\LineOfSightRunner.class -> lastModified(1505259311529)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$3.class -> lastModified(1505318729486)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$4.class -> lastModified(1505318729506)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$combinedThreshold$1.class -> lastModified(1505318729510)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$moneyThreshold$1.class -> lastModified(1505318729517)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$$anonfun$totalCoinsThreshold$1.class -> lastModified(1505318729524)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChange$.class -> lastModified(1505318729486)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChange.class -> lastModified(1505318729471)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChangeRunner$$anonfun$1.class -> lastModified(1505318729538)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChangeRunner$$anonfun$2.class -> lastModified(1505318729541)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChangeRunner$.class -> lastModified(1505318729534)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelCountChangeRunner.class -> lastModified(1505318729527)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancing$$anonfun$3.class -> lastModified(1505318172309)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancing$$anonfun$4.class -> lastModified(1505318172317)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancing$.class -> lastModified(1505318172294)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancing.class -> lastModified(1505318172233)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancingRunner$$anonfun$1.class -> lastModified(1505318172346)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancingRunner$$anonfun$2.class -> lastModified(1505318172353)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancingRunner$.class -> lastModified(1505318172338)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\target\scala-2.11\classes\reductions\ParallelParenthesesBalancingRunner.class -> lastModified(1505318172323)
+source stamps:
+4 items
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> hash(19ffe96b09c84ba566e866c51bacad3b301b2c11)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> hash(8878d8f1292b5894e7681c52b26a8a61d6019fc3)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> hash(7855c9cee6e9fc6aa7e635468b2614d9688e5954)
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> hash(9cb932f25c225771db7598ae4c355c6b040f7b42)
+binary stamps:
+3 items
+C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar -> lastModified(1471666156966)
+C:\Users\Tuan\.ivy2\cache\com.storm-enroute\scalameter-core_2.11\jars\scalameter-core_2.11-0.6.jar -> lastModified(1405518600000)
+C:\Users\Tuan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+3 items
+C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Tuan\.ivy2\cache\com.storm-enroute\scalameter-core_2.11\jars\scalameter-core_2.11-0.6.jar -> org.scalameter.MeasureBuilder
+C:\Users\Tuan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.Double
+internal apis:
+4 items
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD5Iuw4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOuOulp0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADOtHZZZ0AAR3YWl0c3EAfgAMRRH71nQABHRhc2tzcQB+AAxXWlWZdAANJGFzSW5zdGFuY2VPZnNxAH4ADO2zU1l0ABREZWZhdWx0VGFza1NjaGVkdWxlcnNxAH4ADP6VKW10AAZlcXVhbHNzcQB+AAxOPK7rdAAMYXNJbnN0YW5jZU9mc3EAfgAMR3fdZXQADHN5bmNocm9uaXplZHNxAH4ADASe78N0AA0kaXNJbnN0YW5jZU9mc3EAfgAM1gofX3QADGZvcmtKb2luUG9vbHNxAH4ADDVHpFR0AAlub3RpZnlBbGxzcQB+AAxy8qMidAAMaXNJbnN0YW5jZU9mc3EAfgAMTzralnQABjxpbml0PnNxAH4ADEIjdRB0AAlzY2hlZHVsZXJzcQB+AAx/Gy7OdAACPT1zcQB+AAw1EAMXdAANVGFza1NjaGVkdWxlcnNxAH4ADBy51Ep0AAVjbG9uZXNxAH4ADMH/LC90AAhzY2hlZHVsZXNxAH4ADMkZjUp0AAh0b1N0cmluZ3NxAH4ADPulSr90AAIhPXNxAH4ADIlgsA10AAhnZXRDbGFzc3NxAH4ADNkzMG10AAJuZXNxAH4ADGJTK1N0AAJlcXNxAH4ADJ/2SB10AAhwYXJhbGxlbHNxAH4ADGDsJSJ0AAIjI3NxAH4ADMhysS90AAhmaW5hbGl6ZXNxAH4ADBNirm10AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGh4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGcBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE9MAAlpbmhlcml0ZWRxAH4AT0wAB3BhcmVudHNxAH4AT3hxAH4AcHNxAH4AZwF1cQB+AEoAAAAAcHNxAH4AZwF1cQB+AEoAAAAAcHNxAH4AZwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIlzcQB+AHx0AANBbnlzcQB+AIBzcQB+AIN1cQB+AIYAAAACc3EAfgCIdAAFc2NhbGFxAH4Aj3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFeYffwPXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AE1GOlxDb3Vyc2VcU2NhbGFfRnVuY1Byb2dyYW1taW5nXENvdXJzZSAzXHJlZHVjdGlvbnNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBn/6WsJyEulZuhmxRusrTswGywR
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDBgrexAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAEGCCh0AAZub3RpZnlzcQB+AAxwoE7udAAHdW5hcHBseXNxAH4ADAZwAcl0AAdjdXJyaWVkc3EAfgAM+gKVgXQAB3Vwc3dlZXBzcQB+AAxaosT6dAAEd2FpdHNxAH4ADCdNzt50AA5jb3B5JGRlZmF1bHQkMnNxAH4ADJlup/90AA0kYXNJbnN0YW5jZU9mc3EAfgAMWsB1SXQADHByb2R1Y3RBcml0eXNxAH4ADBgGVPt0AAZlcXVhbHNzcQB+AAwZ8pNMdAAMYXNJbnN0YW5jZU9mc3EAfgAMOJfLHnQADHN5bmNocm9uaXplZHNxAH4ADGa4jbV0AARsZWZ0c3EAfgAMmUwDTXQABFRyZWVzcQB+AAwarW3hdAANJGlzSW5zdGFuY2VPZnNxAH4ADMZDP/B0AAROb2Rlc3EAfgAM8QU+bHQAEUxpbmVPZlNpZ2h0UnVubmVyc3EAfgAMKMf3LnQABnR1cGxlZHNxAH4ADM/krnt0ABF1cHN3ZWVwU2VxdWVudGlhbHNxAH4ADFE7t490AAtsaW5lT2ZTaWdodHNxAH4ADAAhY5V0AAhjYW5FcXVhbHNxAH4ADEBmMux0AARtYWluc3EAfgAMyNnj1nQABExlYWZzcQB+AAwHtBdmdAANcHJvZHVjdFByZWZpeHNxAH4ADII2koZ0AAV1bnRpbHNxAH4ADNOxcX50AAlub3RpZnlBbGxzcQB+AAx/d279dAALcmVhZFJlc29sdmVzcQB+AAxwbebPdAAMaXNJbnN0YW5jZU9mc3EAfgAMch+NPHQAE2Rvd25zd2VlcFNlcXVlbnRpYWxzcQB+AAyCql4IdAAJZG93bnN3ZWVwc3EAfgAM/FTjVHQABjxpbml0PnNxAH4ADN3Jcp90AANtYXhzcQB+AAxlF8o7dAAOcGFyTGluZU9mU2lnaHRzcQB+AAyIzTbCdAAFYXBwbHlzcQB+AAzf/LQndAACPT1zcQB+AAzprS6GdAAFY2xvbmVzcQB+AAzGrZ8BdAAEZnJvbXNxAH4ADCKlVyF0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADAhqrdp0AARjb3B5c3EAfgAMeVTZVXQACHRvU3RyaW5nc3EAfgAMv/IC9nQADnN0YW5kYXJkQ29uZmlnc3EAfgAM73h6NnQAAiE9c3EAfgAMIcEeLXQAC0xpbmVPZlNpZ2h0c3EAfgAMrT30f3QACGdldENsYXNzc3EAfgAMbiNoW3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMy82q3HQAAm5lc3EAfgAMRg4b83QAAmVxc3EAfgAM2GC2YnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADHzYjux0AAVyaWdodHNxAH4ADCwbJa10AAIjI3NxAH4ADBtvnYZ0AAhmaW5hbGl6ZXNxAH4ADE2fpkZ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADH7jZQF0AAhoYXNoQ29kZXNxAH4ADBxt4hZ0AAttYXhQcmV2aW91c3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABxyZWR1Y3Rpb25zLkxpbmVPZlNpZ2h0UnVubmVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCZAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCBTAAJaW5oZXJpdGVkcQB+AIFMAAdwYXJlbnRzcQB+AIF4cQB+AKBzcQB+AJkBdXEAfgB8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCCcQB+AIt1cQB+AIwAAAAAc3EAfgCOAHEAfgA3dXEAfgCRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJ90AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC7dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AqHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AlHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ar1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4An3NxAH4ArnQABUFycmF5cQB+ALR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4ArnQABlN0cmluZ3NxAH4AsnNxAH4AtXVxAH4AuAAAAANzcQB+ALp0AARqYXZhc3EAfgC6dAAEbGFuZ3EAfgC/cHNxAH4AmQF1cQB+AHwAAAAAcHNxAH4AmQF1cQB+ANMAAAACc3EAfgCudAAGT2JqZWN0cQB+ANdzcQB+AK50AANBbnlxAH4AtHBwc3EAfgB+cQB+AIt1cQB+AIwAAAAAc3EAfgCOAHQAFnJlZHVjdGlvbnMuTGluZU9mU2lnaHR1cQB+AJEAAAAAcQB+AJV1cQB+AJcAAAAAc3EAfgCZAXEAfgChcHNxAH4AmQFzcQB+AKNzcQB+AJkBdXEAfgB8AAAAAHBzcQB+AJkBdXEAfgB8AAAAAHBzcQB+AJkBdXEAfgDTAAAAAnNxAH4ArnEAfgDjc3EAfgCyc3EAfgC1dXEAfgC4AAAAA3NxAH4AunEAfgDbc3EAfgC6cQB+AN1xAH4Av3NxAH4ArnEAfgDlc3EAfgCyc3EAfgC1dXEAfgC4AAAAAnNxAH4AunEAfgC9cQB+AL9wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACnJlZHVjdGlvbnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV54ckUQdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATUY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDNccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiHjY8SkrWJTnaBxSsmqKYdYBn8M=
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBPxI7WAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAeBUTJ0AAZub3RpZnlzcQB+AAwMgrVgdAAJVGhyZXNob2xkc3EAfgAMVIVnjHQABHdhaXRzcQB+AAxJxwOZdAAZUGFyYWxsZWxDb3VudENoYW5nZVJ1bm5lcnNxAH4ADDRBrBx0AA0kYXNJbnN0YW5jZU9mc3EAfgAMcWpKvHQABmVxdWFsc3NxAH4ADKw+kql0ABFjb21iaW5lZFRocmVzaG9sZHNxAH4ADGO1DJd0AA5tb25leVRocmVzaG9sZHNxAH4ADP0GZ/t0AAxhc0luc3RhbmNlT2ZzcQB+AAxmpChDdAAMc3luY2hyb25pemVkc3EAfgAMOOD1u3QACXBhclJlc3VsdHNxAH4ADBRbLIR0AA0kaXNJbnN0YW5jZU9mc3EAfgAMgt9Um3QAE1BhcmFsbGVsQ291bnRDaGFuZ2VzcQB+AAytqe7pdAAEbWFpbnNxAH4ADDiLVoJ0AAlub3RpZnlBbGxzcQB+AAxp6q02dAAMaXNJbnN0YW5jZU9mc3EAfgAMRAoO/nQAAj09c3EAfgAM8BQO3nQABWNsb25lc3EAfgAMA2JEtXQACHRvU3RyaW5nc3EAfgAM3mNE0HQADnN0YW5kYXJkQ29uZmlnc3EAfgAMVHwG43QAAiE9c3EAfgAMJ1eMRXQACGdldENsYXNzc3EAfgAMGT9OdHQACXNlcVJlc3VsdHNxAH4ADCQXzrt0AAtjb3VudENoYW5nZXNxAH4ADAYGy810AAJuZXNxAH4ADNptos50ABN0b3RhbENvaW5zVGhyZXNob2xkc3EAfgAMWpL6dnQADnBhckNvdW50Q2hhbmdlc3EAfgAM/XeDT3QAAmVxc3EAfgAMpQUbYXQAAiMjc3EAfgAM2o+iu3QACGZpbmFsaXplc3EAfgAMJ69l33QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAJHJlZHVjdGlvbnMuUGFyYWxsZWxDb3VudENoYW5nZVJ1bm5lcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AbQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AVUwACWluaGVyaXRlZHEAfgBVTAAHcGFyZW50c3EAfgBVeHEAfgB0c3EAfgBtAXVxAH4AUAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AVnEAfgBfdXEAfgBgAAAAAHNxAH4AYgBxAH4AKXVxAH4AZQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBzdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ac3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Aj3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHx4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGh0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AINbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHNzcQB+AIJ0AAVBcnJheXEAfgCIdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIJ0AAZTdHJpbmdzcQB+AIZzcQB+AIl1cQB+AIwAAAADc3EAfgCOdAAEamF2YXNxAH4AjnQABGxhbmdxAH4Ak3BzcQB+AG0BdXEAfgBQAAAAAHBzcQB+AG0BdXEAfgCnAAAAAnNxAH4AgnQABk9iamVjdHEAfgCrc3EAfgCCdAADQW55cQB+AIhwcHNxAH4AUnEAfgBfdXEAfgBgAAAAAHNxAH4AYgB0AB5yZWR1Y3Rpb25zLlBhcmFsbGVsQ291bnRDaGFuZ2V1cQB+AGUAAAAAcQB+AGl1cQB+AGsAAAAAc3EAfgBtAXEAfgB1cHNxAH4AbQFzcQB+AHdzcQB+AG0BdXEAfgBQAAAAAHBzcQB+AG0BdXEAfgBQAAAAAHBzcQB+AG0BdXEAfgCnAAAAAnNxAH4AgnEAfgC3c3EAfgCGc3EAfgCJdXEAfgCMAAAAA3NxAH4AjnEAfgCvc3EAfgCOcQB+ALFxAH4Ak3NxAH4AgnEAfgC5c3EAfgCGc3EAfgCJdXEAfgCMAAAAAnNxAH4AjnEAfgCRcQB+AJNwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACnJlZHVjdGlvbnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV57/PRKdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATUY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDNccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUeFXJzubp/Gqn5jVGiyYU2WiOWVQ=
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAv4qxXAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cInq0JF0AAZub3RpZnlzcQB+AAyPQS1adAAEd2FpdHNxAH4ADHzrfCp0AA0kYXNJbnN0YW5jZU9mc3EAfgAMGqSoGHQABmVxdWFsc3NxAH4ADIxXrtd0AAxhc0luc3RhbmNlT2ZzcQB+AAxN3v4TdAAMc3luY2hyb25pemVkc3EAfgAM+QMvUnQACXBhclJlc3VsdHNxAH4ADNlRE4J0AA0kaXNJbnN0YW5jZU9mc3EAfgAMcp33wXQACnBhckJhbGFuY2VzcQB+AAzv7mmrdAAHYmFsYW5jZXNxAH4ADCvSvOF0AARtYWluc3EAfgAMR6amLHQACW5vdGlmeUFsbHNxAH4ADBDfvod0AAxpc0luc3RhbmNlT2ZzcQB+AAxhBDpjdAACPT1zcQB+AAyEOgwpdAAFY2xvbmVzcQB+AAyPFYW/dAAiUGFyYWxsZWxQYXJlbnRoZXNlc0JhbGFuY2luZ1J1bm5lcnNxAH4ADIOTcMF0AAh0b1N0cmluZ3NxAH4ADJOl2XJ0AA5zdGFuZGFyZENvbmZpZ3NxAH4ADDr9sv10AAIhPXNxAH4ADG/MgFF0AAhnZXRDbGFzc3NxAH4ADK6jVih0AAlzZXFSZXN1bHRzcQB+AAzs8uV2dAACbmVzcQB+AAwi1zhVdAACZXFzcQB+AAxzYPaDdAACIyNzcQB+AAyFu2cjdAAIZmluYWxpemVzcQB+AAyuxBFcdAAIaGFzaENvZGVzcQB+AAwucOwMdAAcUGFyYWxsZWxQYXJlbnRoZXNlc0JhbGFuY2luZ3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AC1yZWR1Y3Rpb25zLlBhcmFsbGVsUGFyZW50aGVzZXNCYWxhbmNpbmdSdW5uZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGUBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE1MAAlpbmhlcml0ZWRxAH4ATUwAB3BhcmVudHNxAH4ATXhxAH4AbHNxAH4AZQF1cQB+AEgAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AE5xAH4AV3VxAH4AWAAAAABzcQB+AFoAcQB+ACN1cQB+AF0AAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Aa3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AId1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB0eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBgdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB7WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBrc3EAfgB6dAAFQXJyYXlxAH4AgHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB6dAAGU3RyaW5nc3EAfgB+c3EAfgCBdXEAfgCEAAAAA3NxAH4AhnQABGphdmFzcQB+AIZ0AARsYW5ncQB+AItwc3EAfgBlAXVxAH4ASAAAAABwc3EAfgBlAXVxAH4AnwAAAAJzcQB+AHp0AAZPYmplY3RxAH4Ao3NxAH4AenQAA0FueXEAfgCAcHBzcQB+AEpxAH4AV3VxAH4AWAAAAABzcQB+AFoAdAAncmVkdWN0aW9ucy5QYXJhbGxlbFBhcmVudGhlc2VzQmFsYW5jaW5ndXEAfgBdAAAAAHEAfgBhdXEAfgBjAAAAAHNxAH4AZQFxAH4AbXBzcQB+AGUBc3EAfgBvc3EAfgBlAXVxAH4ASAAAAABwc3EAfgBlAXVxAH4ASAAAAABwc3EAfgBlAXVxAH4AnwAAAAJzcQB+AHpxAH4Ar3NxAH4AfnNxAH4AgXVxAH4AhAAAAANzcQB+AIZxAH4Ap3NxAH4AhnEAfgCpcQB+AItzcQB+AHpxAH4AsXNxAH4AfnNxAH4AgXVxAH4AhAAAAAJzcQB+AIZxAH4AiXEAfgCLcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApyZWR1Y3Rpb25zc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFee/RqVnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AE1GOlxDb3Vyc2VcU2NhbGFfRnVuY1Byb2dyYW1taW5nXENvdXJzZSAzXHJlZHVjdGlvbnNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJy5MvJcIldx23WYrkw1XGsED3tC
+external apis:
+0 items
+source infos:
+4 items
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\common\package.scala -> 
+AAAAAAAAAAA=
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\LineOfSight.scala -> 
+AAAAAAAAAAA=
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelCountChange.scala -> 
+AAAAAAAAAAA=
+F:\Course\Scala_FuncProgramming\Course 3\reductions\src\main\scala\reductions\ParallelParenthesesBalancing.scala -> 
+AAAAAAAAAAA=
+compilations:
+16 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmH38D11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDNccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmIKA2Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDNccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmILeft1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDNccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmd2Fyx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDNccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmlxq/11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDNccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXmqZa2p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDNccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXm4emXl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDNccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXm4fkcx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDNccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXnNA6Vp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDNccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXnhgEyV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDNccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXnhmWGt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDNccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXnhuBqJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDNccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXnhyRRB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDNccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXnv0alZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDNccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXnv5q2B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDNccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXnv89Ep1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUY6XENvdXJzZVxTY2FsYV9GdW5jUHJvZ3JhbW1pbmdcQ291cnNlIDNccmVkdWN0aW9uc1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
