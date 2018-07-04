@@ -18,6 +18,11 @@ object Extraction {
       .config("spark.master", "local")
       .getOrCreate()
 
+  def main(args: Array[String]): Unit = {
+  }
+
+  def fahrenheitToCelsius(d: Double): Double = Math.round((d - 32) * 5 / 9)
+
   /**
     * @param year             Year number
     * @param stationsFile     Path of the stations resource file to use (e.g. "/stations.csv")
@@ -25,15 +30,22 @@ object Extraction {
     * @return A sequence containing triplets (date, location, temperature)
     */
   def locateTemperatures(year: Year, stationsFile: String, temperaturesFile: String): Iterable[(LocalDate, Location, Temperature)] = {
-    //val pathFile = Paths.get(getClass.getResource(stationsFile).toURI).toString
-    val pathFile = "resoures/"
+    val pathFile = Paths.get(getClass.getResource(stationsFile).toURI).toString
     val stationLines = spark.sparkContext.textFile(pathFile)
     val stations = stationLines.map(line => line.split(",")).filter(arr => arr.length == 4)
-      .map(arr => ((arr(0), if(arr(1).isEmpty) "-1" else arr(1)), Location(arr(2).toDouble, arr(3).toDouble))).persist()
+      .map(arr => (
+          (arr(0), if(arr(1).isEmpty) "-1" else arr(1)),
+          Location(arr(2).toDouble, arr(3).toDouble)
+        )
+      ).persist()
     val temperaturesPath = Paths.get(getClass.getResource(temperaturesFile).toURI).toString
     val temperatureLines = spark.sparkContext.textFile(temperaturesPath)
     val temperature = temperatureLines.map(line => line.split(","))
-      .map(arr => ((arr(0), if(arr(1).isEmpty) "-1" else arr(1)), (LocalDate.of(year, arr(2).toInt, arr(3).toInt), arr(4).toDouble))).persist()
+      .map(arr => (
+          (arr(0), if(arr(1).isEmpty) "-1" else arr(1)),
+          (LocalDate.of(year, arr(2).toInt, arr(3).toInt), fahrenheitToCelsius(arr(4).toDouble))
+        )
+      ).persist()
     val groupRecords = stations.join(temperature).map{
       case ((address1, address2), (location, (localDate, temp))) => (localDate, location, temp)
     }.persist()

@@ -1,6 +1,7 @@
 package observatory
 
 import com.sksamuel.scrimage.{Image, Pixel}
+import observatory.utils._
 
 /**
   * 5th milestone: value-added information visualization
@@ -22,9 +23,8 @@ object Visualization2 {
     d01: Temperature,
     d10: Temperature,
     d11: Temperature
-  ): Temperature = {
-    ???
-  }
+  ): Temperature =
+    d00*(1-point.x)*(1-point.y) + d10*(point.x)*(1-point.y) + d01*(1-point.x)*point.y + d11*point.x*point.y
 
   /**
     * @param grid Grid to visualize
@@ -37,7 +37,28 @@ object Visualization2 {
     colors: Iterable[(Temperature, Color)],
     tile: Tile
   ): Image = {
-    ???
+    val subTiles = for {
+      idy <- 0 until 256
+      idx <- 0 until 256
+    } yield Tile(tile.x*256 + idx, tile.y*256 + idy, tile.zoom + 8)
+
+    val locations = subTiles.map(subTile => Interaction.tileLocation(subTile))
+
+    val pixels = locations.map(loc => {
+      val baseGrid = Utils.locationToGridIndex(loc)
+      val cellPoint = new CellPoint(loc.lon - baseGrid.lon, loc.lat - baseGrid.lat)
+      val color = Visualization.interpolateColor(colors,
+        bilinearInterpolation(cellPoint,
+          grid(baseGrid),
+          grid(new GridLocation(baseGrid.lat + 1, baseGrid.lon)),
+          grid(new GridLocation(baseGrid.lat, baseGrid.lon + 1)),
+          grid(new GridLocation(baseGrid.lat + 1, baseGrid.lon+ 1))
+        )
+      )
+      Pixel(color.red, color.green, color.blue, 127)
+    }).toArray
+
+    Image(256, 256, pixels)
   }
 
 }
